@@ -1,0 +1,6 @@
+*.zip
+*.exe
+*.msi
+Downloads/
+node_modules/git
+images/Downloads/git checkout --orphan clean-main
